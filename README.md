@@ -56,7 +56,7 @@ Project developed at the [RocketSeat GoStack Bootcamp 🚀👨🏻‍🚀](https
 </p>
 
 <p align="center">
-  <a href="https://compassionate-heisenberg-cde9ad.netlify.com/" target="_blank">
+  <a href="https://rocketshoes-ambegossi.netlify.com/" target="_blank">
     <img alt="Demo on Netlify" src=".github/demo-netlify.png">
   </a>
 </p>
