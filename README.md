@@ -35,7 +35,7 @@
 </p>
 
 <p align="center">
-  <a href="https://www.codacy.com/manual/ambegossi/rocketshoes-web?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=ambegossi/rocketshoes-web&amp;utm_campaign=Badge_Grade">
+  <a href="https://www.codacy.com/manual/ambegossi/rocketshoes-web?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=ambegossi/rocketshoes-web&amp;utm_campaign=Badge_Grade" target="_blank">
     <img alt="Codacy Badge" src="https://api.codacy.com/project/badge/Grade/bbaacc06ef4f45ee86b9fc9555fbfbda">
   </a>
 </p>
@@ -53,6 +53,12 @@ Project developed at the [RocketSeat GoStack Bootcamp 🚀👨🏻‍🚀](https
 
 <p align="center">
   <img alt="App Screenshot" src=".github/rocketshoes-web.png">
+</p>
+
+<p align="center">
+  <a href="https://compassionate-heisenberg-cde9ad.netlify.com/" target="_blank">
+    <img alt="Demo on Netlify" src=".github/demo-netlify.png">
+  </a>
 </p>
 
 ## :rocket: Technologies
