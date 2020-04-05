@@ -66,6 +66,7 @@ Project developed at the [RocketSeat GoStack Bootcamp 🚀👨🏻‍🚀](https
 - [ReactJS](https://reactjs.org/)
 - [Redux](https://redux.js.org/)
 - [Redux-Saga](https://redux-saga.js.org/)
+- [React Hooks](https://reactjs.org/docs/hooks-intro.html)
 - [React Router v4](https://github.com/ReactTraining/react-router)
 - [Axios](https://github.com/axios/axios)
 - [History](https://www.npmjs.com/package/history)
